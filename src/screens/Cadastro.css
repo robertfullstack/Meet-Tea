@@ -1,0 +1,36 @@
+.container-cadastro {
+    width: 70%;
+    margin: 120px auto;
+}
+
+.container-cadastro input {
+    display: block;
+    width: 100%;
+    height: 26px;
+    font-size: 16px;
+    padding-left: 5px;
+}
+
+.container-cadastro .container-cadastro-button-full {
+    margin-top: 20px;
+    width: 101%;
+    height: 40px;
+    cursor: pointer;
+}
+
+.container-cadastro button:hover {
+    box-shadow: 5px 5px 15px black;
+    transition-duration: 1s;
+}
+
+.container-cadastro-button-menor {
+    height: 30px;
+    width: 70%;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
